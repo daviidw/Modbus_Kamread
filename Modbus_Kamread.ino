@@ -6,6 +6,8 @@
 
 #include <SimpleModbusSlave.h>
 #include <KamRead.h>
+#include <ActivityLed.h>
+#include <AltSoftSerial.h>
 
 /* Define Pins */
 #define LED  13   // onboard led
